@@ -1,8 +1,7 @@
-Here's a more polished and professional version of your profile:
 
 ---
 
-## Roshn Joy  
+## Roshan Joy  
 **Computer Science Engineer | AI & Full-Stack Developer | Sustainable Tech Enthusiast**
 
 🎓 Final-year B.Tech Computer Science student with a passion for developing impactful technology solutions  
